@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ClickSound.cs">
+    <Files>
+      <File FileName="Assets\Scripts\RegisterNumbers.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ClickSound.cs" Line="13" Column="45" />
+      <File FileName="Assets\BottomVolText.cs" Line="1" Column="1" />
+      <File FileName="Assets\MenuVolText.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CircuitHandler.cs" Line="1" Column="1" />
+      <File FileName="d:\Users\Vlad\Documents\MAGNETERIA\Assets\Scripts\CircuitScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MoveLockUp.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\OpenMainMenu.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
